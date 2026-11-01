@@ -1,0 +1,4 @@
+^\.github$
+^IMPLEMENTATION_REPORT\.md$
+^data-raw$
+^\.gitignore$

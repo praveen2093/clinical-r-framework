@@ -1,0 +1,16 @@
+Package: clinicalUtils
+Title: Reusable Utilities for Clinical Programming
+Version: 0.1.0
+Authors@R: person("Clinical R Framework", "Maintainers", email = "maintainers@example.org", role = c("aut", "cre"))
+Description: Dependency-light derivation, data-quality validation, synthetic dataset,
+    and regression comparison utilities for clinical programming workflows.
+    Checks are configurable and are not a substitute for approved standards
+    conformance or regulatory validation software.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+Suggests:
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+NeedsCompilation: no
+Config/roxygen2/version: 8.1.0
